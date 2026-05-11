@@ -1,6 +1,6 @@
 # Fitness App (Application Name: Baby Steps)
 
-Fitness App demo to make any beginners fitness goals easy to accomplish.
+Fitness App demo to make any beginner's fitness goals easy to accomplish.
 
 ## Tools
 
