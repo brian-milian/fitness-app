@@ -18,6 +18,8 @@ Input your fitness goals and obtain the correct meals for losing weight, buildin
 
 ## Instructions to Run Program
 
+Git Clone the repository to your local computer and make sure to have xcode applicaiton already downloaded.
+Open fitness-app in xcode.
 You need to click run at the top of xcode and wait some time for the iphone simulator to run:
 
 <div align="center">
